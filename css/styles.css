@@ -1,0 +1,46 @@
+h1+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: larger;
+    font-weight: 800;
+    color: blue;
+    letter-spacing: 0ic;
+}
+
+h3 {
+
+    color: blue;
+}
+
+main {
+    color: red;
+}
+
+body {
+    background-image: url(../img/arepas.jpg);
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    font-size: 16px;
+}
+
+
+
+ol[data-nombre="preparacion"] {
+    background-color: #f0f8ff;
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+.Propiedades~ul {
+    background-color: crimson;
+    padding: 10px;
+    border-top: 2px solid#333;
+    list-style-type: square;
+}
